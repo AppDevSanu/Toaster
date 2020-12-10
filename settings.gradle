@@ -1,0 +1,3 @@
+include ':toaster_java'
+include ':app'
+rootProject.name = "ToastApp"
